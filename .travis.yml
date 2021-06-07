@@ -9,7 +9,7 @@ branches:
  only:    
  - master    
  - dev 
- script:  
+script:  
  - yarn test  
  - yarn build
 
